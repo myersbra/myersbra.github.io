@@ -1,6 +1,6 @@
 $(document).ready(function() {
   setTime();
-;
+});
 
 function setTime() {
   var d = new Date();
