@@ -1,8 +1,6 @@
 $(document).ready(function() {
   setTime();
-  if (n > 19 || n < 6)
-    document.body.className = "night";
-});
+;
 
 function setTime() {
   var d = new Date();
